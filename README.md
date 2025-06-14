@@ -39,7 +39,7 @@ webboost-sales-forecasting/
 
 ## 📊 Dashboard Preview
 
-![Forecast Graph](outputs/forecast_graph.png)
+![Forecast Graph](outputs/forecast_graph.png.png)
 
 ---
 
