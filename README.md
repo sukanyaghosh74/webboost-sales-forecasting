@@ -17,8 +17,6 @@ This project analyzes and forecasts monthly sales using:
 * 🤖 Machine Learning (Linear Regression)
 * 📈 Streamlit Dashboard for real-time predictions
 
-Built as a portfolio-ready project for the **WebBoost Data Science Internship**.
-
 ---
 
 ## 📁 Folder Structure
